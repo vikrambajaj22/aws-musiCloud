@@ -6,3 +6,6 @@ https://s3.amazonaws.com/musicloud-project/index.html
 
 ### Cognito Sign-Up/Login Link
 https://musicloud.auth.us-east-1.amazoncognito.com/login?redirect_uri=https://s3.amazonaws.com/musicloud-project/chat.html&response_type=code&client_id=7msjs0mga30msa1sjjtlabfieb
+
+### YouTube Video Demonstration
+https://youtu.be/NOKxsKNFoZo
